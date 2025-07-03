@@ -1,0 +1,22 @@
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: white;
+      transition: background-color 0.5s;
+    }
+
+    .fundo-alternativo {
+      background-color: #4e89ae;
+    }
+    
+    button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
